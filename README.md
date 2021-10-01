@@ -9,5 +9,6 @@ I had bit knwoledge about core java and c programing languages and i'm started l
 [Meme](https://c.tenor.com/g6l5_mDSibkAAAAM/come-look-at-this.gif)
 
 ## Project description ##
+Our projecct is about just an android game. It's looks gonna simple but the work behind it to be donw was bit complicated. It's all about just an a game which there's an object which we assign some sort tasks like collecting objects that which there increases an level for the game. It's gonna be fun while playing. It's like simple another android game but we did our best.
 
 
